@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - preview_camera_lib (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - preview_camera_lib (from `.symlinks/plugins/preview_camera_lib/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  preview_camera_lib:
+    :path: ".symlinks/plugins/preview_camera_lib/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  preview_camera_lib: ac0e90d239690b93b45ad36e97b7c9ea7f5fcbc6
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
